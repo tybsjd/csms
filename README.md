@@ -14,10 +14,12 @@ For RESTful API,This guide will help you run this application on your local mach
       RewriteEngine On
       RewriteRule . index.php
   ```
+<img width="711" alt="Screenshot 2023-07-05 at 2 16 53 AM" src="https://github.com/tybsjd/csms/assets/19371471/541c31d5-6c5c-4420-8cc6-1ceedfe5310d">
 
 ## PHPUnit Test
 
   - phpUnit 10.2 requires >8 version of PHP, update composer to configure phpUnit.
+
   - For Test case, navigate to csms folder and run command in terminal 
   ```sh
   ./vendor/bin/phpunit
@@ -26,4 +28,7 @@ For RESTful API,This guide will help you run this application on your local mach
   ```sh
   php ./vendor/bin/phpunit
   ```
+<img width="565" alt="Screenshot 2023-07-05 at 2 22 15 AM" src="https://github.com/tybsjd/csms/assets/19371471/f54bd0f0-af6f-4aa4-8441-5068142715b7">
+
+
   
