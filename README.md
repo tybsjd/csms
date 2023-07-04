@@ -30,5 +30,18 @@ For RESTful API,This guide will help you run this application on your local mach
   ```
 <img width="565" alt="Screenshot 2023-07-05 at 2 22 15 AM" src="https://github.com/tybsjd/csms/assets/19371471/f54bd0f0-af6f-4aa4-8441-5068142715b7">
 
+# Challenge #2
+
+- We can connect this project to DATABASE to add models/entities to this project. This project is expandable, we can add more controllers  and write services.
+- We can write a Base controller and implement it for other controllers.
+- We can make versions of API, with the evolution of the technology.
+- We can expand exceptions.
+- We can add authentication to access api.
+- We can add more endpoints like GET, PUT etc.
+- We can add a config file to save constant values like rate values in this project.
+- We can try, catch the code.
+Any suggestion or feedback would be helpful.
+
+
 
   
